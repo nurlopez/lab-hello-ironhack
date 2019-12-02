@@ -1,0 +1,12 @@
+.main-cover {
+    color: white;
+}
+
+.main-cover button {
+    background: white;
+    border: none;
+    border-radius: 10px;
+
+    padding: 10px;
+
+}
